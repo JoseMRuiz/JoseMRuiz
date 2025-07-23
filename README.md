@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d1957da0-3dd5-4944-9c3e-c07e8128c2c6" />
+
+
 # 👋 ¡Hola! Soy Jose María Ruiz
 
 Soy un desarrollador frontend enfocado en crear experiencias web modernas, eficientes y atractivas. Me gusta escribir código limpio y trabajar con tecnologías actuales que mejoren el rendimiento y la estética de las aplicaciones.
