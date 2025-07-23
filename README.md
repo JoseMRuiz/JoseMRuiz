@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d1957da0-3dd5-4944-9c3e-c07e8128c2c6" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d745005-169f-47c3-a6bd-d818dbf6b94a" />
+
 
 
 # 👋 ¡Hola! Soy Jose María Ruiz
