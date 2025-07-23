@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jose María Ruiz
 
-<!--
-**JoseMRuiz/JoseMRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador frontend enfocado en crear experiencias web modernas, eficientes y atractivas. Me gusta escribir código limpio y trabajar con tecnologías actuales que mejoren el rendimiento y la estética de las aplicaciones.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+
+- **Lenguajes:** HTML, CSS, JavaScript, Python  
+- **Frameworks y Librerías:** React, Vite  
+- **Estilos y UI:** Tailwind CSS, Bootstrap, Sass  
+- **Herramientas:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🔗 **Portafolio Personal**  
+  Sitio web moderno hecho con React y Tailwind CSS para mostrar mis habilidades y proyectos.
+
+- 🌦️ **App del Clima**  
+  Aplicación web que consume una API del clima. Desarrollada con React y Vite.
+
+- ✅ **To-Do List**  
+  Lista de tareas simple, responsiva y funcional usando JavaScript puro y Sass.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![JoseMRuiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMRuiz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMRuiz&layout=compact&theme=radical)
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: josemruiz6@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-maria-ruiz-998322271/)
+- 🐙 [github.com/JoseMRuiz](https://github.com/JoseMRuiz)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
