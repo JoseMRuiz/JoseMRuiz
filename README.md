@@ -17,16 +17,16 @@ Soy un desarrollador frontend enfocado en crear experiencias web modernas, efici
 
 ---
 
-## 🚀 Proyectos Destacados
+##🚀 Proyectos Destacados
 
-- 🔗 **Portafolio Personal**  
-  Sitio web moderno hecho con React y Tailwind CSS para mostrar mis habilidades y proyectos.
+🔗 Portafolio Personal
+Sitio web moderno hecho con React y Tailwind CSS para mostrar mis habilidades y proyectos.
 
-- 🌦️ **App del Clima**  
-  Aplicación web que consume una API del clima. Desarrollada con React y Vite.
+⏰🕒🗓️ Aplicación de Turnos
+Aplicación web que realiza un programa de turnos. Desarrollada con Javascript puro.
 
-- ✅ **To-Do List**  
-  Lista de tareas simple, responsiva y funcional usando JavaScript puro y Sass.
+📦📋🏷️ Gestor de Inventario
+Lista de inventario, responsiva y funcional usando React y Vite con Tailwind.
 
 ---
 
